@@ -6,4 +6,6 @@
 | Config   | Details       |
 | -------- | ------------- |
 | Software | Vivado 2018.3 |
-| System   | Windows 10    |
+| Software | MatLab 2020b |
+| Software | Modelsim 2019.2 |
+| System   | Windows 10 x64   |
